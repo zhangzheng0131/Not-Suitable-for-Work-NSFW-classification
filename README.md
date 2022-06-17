@@ -79,6 +79,4 @@ The definition of NSFW is subjective and contextual. This model is a general pur
 #### License
 Code licensed under the [BSD 2 clause license] (https://github.com/BVLC/caffe/blob/master/LICENSE). See LICENSE file for terms.
 
-#### Contact
-The model was trained by [Jay Mahadeokar](https://github.com/jay-mahadeokar/),  in collaboration with [Sachin Farfade](https://github.com/sachinfarfade/) , [Amar Ramesh Kamat](https://github.com/amar-kamat), [Armin Kappeler](https://github.com/akappeler) and others. Special thanks to Gerry Pesavento for taking the initiative for open-sourcing this model. If you have any queries, please raise an issue and we will get back ASAP.
 
